@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:RANDOM EXPERIMENTS
+#EXTINF:123,Breaking Bad s01e01
+http://192.168.0.93:5001/video/video.mvk
